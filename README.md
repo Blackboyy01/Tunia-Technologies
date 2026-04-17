@@ -112,7 +112,15 @@ This analysis was designed to achieve **four core objectives:**
 
 
 ---
+## 🛠️ Tech Stack
 
+| Tool | Purpose |
+|---|---|
+| **Microsoft Excel** | End-End Analysis |
+| **Power Query** | ETL / Data Transformation |
+| **Pivot Tables** | Multi-dimensional Analysis |
+| **Pivot Charts & Slicers** | Interactive Dashboarding |
+| **Advanced Formulas** | KPI & Metric Calculations |
 ## Process Flow & Methodology
 
 ## 1. Data Extraction
