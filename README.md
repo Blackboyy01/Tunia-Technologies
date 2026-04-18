@@ -24,7 +24,7 @@ Tunia Technologies is a Pan-African tech-driven company founded in 2019, operati
 - [Process Flow & Methodology](#process-flow--methodology)
 - [Key Insights](#key-insights)
 - [Business Impact](#business-impact)
-- [Detailed Recommendations](#detailed-recommendations)
+- [Recommendations](#recommendations)
 
 
 ---
@@ -38,7 +38,7 @@ The Technology category contributes $836.2K (~36%) of total revenue, making it t
 
 Profit is led by the Consumer segment at $134.1K, outperforming Corporate ($91.98K) and Home Office ($60.30K) by ~46% and ~122% respectively, indicating stronger pricing and demand in the consumer market.
 
-At the same time, a group of underperforming products—including printers and conference tables- generates over $17+K in losses, directly impacting overall profitability. At the same time, inconsistent discounting, such as $567 applied to Binders versus ~$100–$137(papers, chairs, furnishings, phone) across other categories, suggests weak pricing discipline.
+At the same time, a group of underperforming products: including printers and conference tables- generates over $17+K in losses, directly impacting overall profitability. At the same time, inconsistent discounting, such as $567 applied to Binders versus ~$100–$137(papers, chairs, furnishings, phone) across other categories, suggests weak pricing discipline.
 
 The business shows strong demand and growth potential but requires better control over costs, pricing, discounting,  and product performance to improve profitability.
 
@@ -333,9 +333,9 @@ This analysis quantifies the difference between **actual 2022 performance** and 
 4. **Loss Exposure:** -$17K → **$0** (elimination of underperformers)
 
 
-## Detailed Recommendations
+## Recommendations
 
-### 1: Eliminate Losses from Underperforming Products (High Impact)**
+### 1: Eliminate Losses from Underperforming Products**
 
 **Objective:** Remove or reprice loss-making SKUs to recover **$17,000+ in annual profit**, improving total profit margin by **0.7 percentage points** (12.5% → 13.2%).
 
@@ -371,7 +371,7 @@ Target Outcome:
 
 +3–5% improvement in overall margin
 
-### **3. Expand & Prioritize Consumer Segment (High Impact)**
+### **3. Expand & Prioritize Consumer Segment**
 
 **Objective:** Grow Consumer segment revenue and profit by **15–20%** over 12 months by increasing market penetration, repeat purchases, and average transaction value.
 Why it matters:
@@ -405,7 +405,7 @@ Target Outcome:
 20–30% reduction in monthly sales volatility
 *
 
-### **5. Strengthen Core Technology Category (High Impact, Controlled Risk)**
+### **5. Strengthen Core Technology Category **
 
 **Objective:** Grow Technology category revenue by **10–15%** ($84–126K increase) while maintaining margin discipline, making it the primary profit driver.
 Why it matters:
