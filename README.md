@@ -180,15 +180,15 @@ Tools Used: Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Fo
  KPI Summary
 Five headline metrics pinned at the top of the dashboard for at-a-glance performance monitoring:
 
-1. Count of Sales — Total number of transactions processed in 2022
+1. Count of Sales : Total number of transactions processed in 2022
 
-2. Sum of Sales — Total revenue generated across all orders
+2. Sum of Sales : Total revenue generated across all orders
  
-3. Sum of Profit — Overall profit contribution across the business
+3. Sum of Profit : Overall profit contribution across the business
    
-4. Sum of Discount — Aggregate discount value applied across transactions
+4. Sum of Discount : Aggregate discount value applied across transactions
    
-5. Sum of Quantity — Total units sold across all product lines
+5. Sum of Quantity : Total units sold across all product lines
 
 
  Trend Analysis
