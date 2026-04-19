@@ -30,6 +30,9 @@ Tunia Technologies is a Pan-African tech-driven company founded in 2019, operati
 ---
 
 ## Executive Summary
+
+[Click here to view the Executive Summary PDF](./Executive%20summary%20for%20Tunia.pdf)
+
 Tunia Technologies generated $2.30M in revenue and $286.4K in profit, resulting in a ~12.5% margin. While revenue performance is strong, profitability is constrained by product losses and inconsistent discounting.
 
 Sales improved significantly during the year, rising from $59.8K in February to $352.5K in November (~489% growth), with December maintaining strong performance at $323.5K. However, this growth is heavily concentrated in the final months.
