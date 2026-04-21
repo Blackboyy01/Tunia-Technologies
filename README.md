@@ -18,6 +18,7 @@ Tunia Technologies is a Pan-African tech-driven company founded in 2019, operati
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
+- [Dashboard](#dashboard)
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
 - [Project Objectives](#project-objectives)
@@ -41,11 +42,15 @@ The Technology category contributes $836.2K (~36%) of total revenue, making it t
 
 Profit is led by the Consumer segment at $134.1K, outperforming Corporate ($91.98K) and Home Office ($60.30K) by ~46% and ~122% respectively, indicating stronger pricing and demand in the consumer market.
 
-At the same time, a group of underperforming products: including printers and conference tables- generates over $17+K in losses, directly impacting overall profitability. At the same time, inconsistent discounting, such as $567 applied to Binders versus ~$100–$137(papers, chairs, furnishings, phone) across other categories, suggests weak pricing discipline.
+At the same time, a group of underperforming products, including printers and conference tables, generates over $17+K in losses, directly impacting overall profitability. At the same time, inconsistent discounting, such as $567 applied to Binders versus ~$100–$137(papers, chairs, furnishings, phone) across other categories, suggests weak pricing discipline.
 
 The business shows strong demand and growth potential but requires better control over costs, pricing, discounting,  and product performance to improve profitability.
 
 This analysis identifies **5 high-impact strategic opportunities** that can improve profit retention and reduce operational risk, with projected gains of **$150K–$250K in additional annual profit**.
+
+## Dashboard
+
+[View Dashboard](./Tunia_DB.png)
 
 
 ---
@@ -115,7 +120,7 @@ This analysis was designed to achieve **four core objectives:**
 
 
 ---
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -180,18 +185,22 @@ Built an interactive Excel dashboard surfacing performance across sales, profit,
 
 Tools Used: Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)
 
+## Dashboard
+
+[View Dashboard](./Tunia_DB.png)
+
  KPI Summary
 Five headline metrics pinned at the top of the dashboard for at-a-glance performance monitoring:
 
-1. Count of Sales : Total number of transactions processed in 2022
+1. Count of Sales: Total number of transactions processed in 2022
 
-2. Sum of Sales : Total revenue generated across all orders
+2. Sum of Sales: Total revenue generated across all orders
  
-3. Sum of Profit : Overall profit contribution across the business
+3. Sum of Profit: Overall profit contribution across the business
    
-4. Sum of Discount : Aggregate discount value applied across transactions
+4. Sum of Discount: Aggregate discount value applied across transactions
    
-5. Sum of Quantity : Total units sold across all product lines
+5. Sum of Quantity: Total units sold across all product lines
 
 
  Trend Analysis
@@ -215,7 +224,7 @@ Bottom 5 Loss-Making Products: Surfaces' individual products generating negative
 
  Dynamic Filtering
 
-Ship Mode Slicer (First Class, Same Day, Second Class, Standard) — Enables real-time filtering of all dashboard visuals by logistics mode, allowing isolated performance analysis per shipping channel
+Ship Mode Slicer (First Class, Same Day, Second Class, Standard) enables real-time filtering of all dashboard visuals by logistics mode, allowing isolated performance analysis per shipping channel
 
 ---
 
